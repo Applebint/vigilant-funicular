@@ -17,7 +17,7 @@ api_hash = 'f7646facdf9e569bddc3205fa958f323'
 client = TelegramClient('anon', api_id, api_hash)
 client.parse_mode = 'html'
 
-TokenAthena = "6305332377:AAH3FIEfMMOG3Qq6card3S87tHMom-wosVY"
+TokenAthena = "6648459380:AAEs5mqk6JncHsD3VjUwS4gZty_8_ZxWWSo"
 id_channel_athena = -1002074958586
 bot = telebot.TeleBot(TokenAthena, parse_mode="html")
 system("clear")
