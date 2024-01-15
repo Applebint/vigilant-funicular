@@ -11,8 +11,8 @@ from pyrogram.types import (
     InlineKeyboardMarkup
 ) 
 
-api_id = 24521320
-api_hash = 'c51c993e774877dfb18f54cb1ad07405'
+api_id = 24172304
+api_hash = 'f7646facdf9e569bddc3205fa958f323'
 
 client = TelegramClient('anon', api_id, api_hash)
 client.parse_mode = 'html'
